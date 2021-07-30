@@ -15,9 +15,8 @@ Developed by:
 - [Chauncey Murray](https://github.com/chaunceym123) - `Morgan State University`
 - [Xavier Hicks](https://github.com/XavierHicks) - `Morgan State University`
 ## Description
-<!--
+<!-- -->
 We want to program a system that can detect breast cancer with genes. With genes, we can use that to predict breast cancer especially if it's a history thing. Could have a system that detects tumors such as malignant and  benign as an example to detect breast cancer.
--->
 
 ## Usage instructions
 <!--
