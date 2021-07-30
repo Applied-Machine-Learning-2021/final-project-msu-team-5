@@ -21,7 +21,7 @@ Give a short description on what your project accomplishes and what tools is use
 
 ## Usage instructions
 <!--
-Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
+We want to program a system that can detect breast cancer with genes. With genes, we can use that to predict breast cancer especially if it's a history thing. Could have a system that detects tumors such as malignant and  benign as an example to detect breast cancer.
 -->
 1. Fork this repo
 2. Change directories into your project
