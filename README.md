@@ -9,11 +9,11 @@ List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
 Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-
+- [Kayla Thames](https://github.com/ka-city) - `Morgan State University`
+- [Aria Jones](https://github.com/arjon8) - `Morgan State University` 
+- [Javon Barrett](https://github.com/javonbarrett) - `Morgan State University` 
+- [Chauncey Murray](https://github.com/chaunceym123) - `Morgan State University`
+- [Xavier Hicks](https://github.com/XavierHicks) - `Morgan State University`
 ## Description
 <!--
 Give a short description on what your project accomplishes and what tools is uses. In addition, you can drop screenshots directly into your README file to add them to your README. Take these from your presentations.
